@@ -1,8 +1,15 @@
 - 👋 Hi, I’m @djaircosta
+
 A software developer passionate about technology, seeking to turn dreams into reality through programming.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+
+- 👀 I’m interested in
+
+With my work I can help as many people as possible with their problems
+
+- 🌱 I’m currently learning
+
+Working Senior System Specialist in Backend in java, and developing personal projects with focus on Full Stack- 💞️ I’m looking to collaborate on ...
+
 - 📫 How to reach me ...
 
 <!---
