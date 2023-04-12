@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @djaircosta
 
-A software developer passionate about technology, seeking to turn dreams into reality through programming.
+A Full Stack passionate about technology, seeking to turn dreams into reality through programming.
 
 - 👀 I’m interested in
 
